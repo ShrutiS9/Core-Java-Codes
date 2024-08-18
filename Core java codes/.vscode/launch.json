@@ -1,0 +1,1030 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Anonymous",
+            "request": "launch",
+            "mainClass": "Anonymous",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO8deserializable",
+            "request": "launch",
+            "mainClass": "IO8deserializable",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO7Serializable",
+            "request": "launch",
+            "mainClass": "IO7Serializable",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO6PrintWriter",
+            "request": "launch",
+            "mainClass": "IO6PrintWriter",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO5BufferedReader",
+            "request": "launch",
+            "mainClass": "IO5BufferedReader",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "APT9Annotation",
+            "request": "launch",
+            "mainClass": "APT9Annotation",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API7enum",
+            "request": "launch",
+            "mainClass": "API7enum",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API6enum",
+            "request": "launch",
+            "mainClass": "API6enum",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API5enupublicm",
+            "request": "launch",
+            "mainClass": "API5enupublicm",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API4stream",
+            "request": "launch",
+            "mainClass": "API4stream",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API3",
+            "request": "launch",
+            "mainClass": "API3",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API2",
+            "request": "launch",
+            "mainClass": "API2",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "API1",
+            "request": "launch",
+            "mainClass": "API1",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Generics5Comparator",
+            "request": "launch",
+            "mainClass": "Generics5Comparator",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Generics5Comparable",
+            "request": "launch",
+            "mainClass": "Generics5Comparable",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Generics4Sort",
+            "request": "launch",
+            "mainClass": "Generics4Sort",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Generics3",
+            "request": "launch",
+            "mainClass": "Generics3",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Map4",
+            "request": "launch",
+            "mainClass": "Map4",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Map3",
+            "request": "launch",
+            "mainClass": "Map3",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Map2Access",
+            "request": "launch",
+            "mainClass": "Map2Access",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Map1HashLinkMap",
+            "request": "launch",
+            "mainClass": "Map1HashLinkMap",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection8FailFast",
+            "request": "launch",
+            "mainClass": "Collection8FailFast",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection8legacy",
+            "request": "launch",
+            "mainClass": "Collection8legacy",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection3ArrayDeque",
+            "request": "launch",
+            "mainClass": "Collection3ArrayDeque",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection4PriorityQueue",
+            "request": "launch",
+            "mainClass": "Collection4PriorityQueue",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection6HashSet",
+            "request": "launch",
+            "mainClass": "Collection6HashSet",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Collection1Arraylist",
+            "request": "launch",
+            "mainClass": "Collection1Arraylist",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO4BufferWriter",
+            "request": "launch",
+            "mainClass": "IO4BufferWriter",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO3Reader",
+            "request": "launch",
+            "mainClass": "IO3Reader",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO2Writing",
+            "request": "launch",
+            "mainClass": "IO2Writing",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO1File",
+            "request": "launch",
+            "mainClass": "IO1File",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO1",
+            "request": "launch",
+            "mainClass": "IO1",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingPC",
+            "request": "launch",
+            "mainClass": "MultithreadingPC",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading9deadlock",
+            "request": "launch",
+            "mainClass": "Multithreading9deadlock",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading7Interrupt",
+            "request": "launch",
+            "mainClass": "Multithreading7Interrupt",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreadingsync",
+            "request": "launch",
+            "mainClass": "Multithreadingsync",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading8Syncro",
+            "request": "launch",
+            "mainClass": "Multithreading8Syncro",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading6Join",
+            "request": "launch",
+            "mainClass": "Multithreading6Join",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading5",
+            "request": "launch",
+            "mainClass": "Multithreading5",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading3",
+            "request": "launch",
+            "mainClass": "Multithreading3",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading2",
+            "request": "launch",
+            "mainClass": "Multithreading2",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading1",
+            "request": "launch",
+            "mainClass": "Multithreading1",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "staticpractice",
+            "request": "launch",
+            "mainClass": "staticpractice",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Static2",
+            "request": "launch",
+            "mainClass": "Static2",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "Wrapper1",
+            "request": "launch",
+            "mainClass": "Wrapper1",
+            "projectName": "Core java codes_110003b"
+        },
+        {
+            "type": "java",
+            "name": "IO9Transient",
+            "request": "launch",
+            "mainClass": "IO9Transient",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO8deserializable",
+            "request": "launch",
+            "mainClass": "IO8deserializable",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO7Serializable",
+            "request": "launch",
+            "mainClass": "IO7Serializable",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO6PrintWriter",
+            "request": "launch",
+            "mainClass": "IO6PrintWriter",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO5BufferedReader",
+            "request": "launch",
+            "mainClass": "IO5BufferedReader",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO4BufferWriter",
+            "request": "launch",
+            "mainClass": "IO4BufferWriter",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO3Reader",
+            "request": "launch",
+            "mainClass": "IO3Reader",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO2Writing",
+            "request": "launch",
+            "mainClass": "IO2Writing",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO1File",
+            "request": "launch",
+            "mainClass": "IO1File",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO2",
+            "request": "launch",
+            "mainClass": "IO2",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "IO1",
+            "request": "launch",
+            "mainClass": "IO1",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "APT9Annotation",
+            "request": "launch",
+            "mainClass": "APT9Annotation",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API8Annotation",
+            "request": "launch",
+            "mainClass": "API8Annotation",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API7enum",
+            "request": "launch",
+            "mainClass": "API7enum",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API6enum",
+            "request": "launch",
+            "mainClass": "API6enum",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Array6",
+            "request": "launch",
+            "mainClass": "Array6",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Arguement",
+            "request": "launch",
+            "mainClass": "Arguement",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API4stream",
+            "request": "launch",
+            "mainClass": "API4stream",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API5enupublicm",
+            "request": "launch",
+            "mainClass": "API5enupublicm",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingPC",
+            "request": "launch",
+            "mainClass": "MultithreadingPC",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API3",
+            "request": "launch",
+            "mainClass": "API3",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API4",
+            "request": "launch",
+            "mainClass": "API4",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API2",
+            "request": "launch",
+            "mainClass": "API2",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "API1",
+            "request": "launch",
+            "mainClass": "API1",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "poly1",
+            "request": "launch",
+            "mainClass": "poly1",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance3",
+            "request": "launch",
+            "mainClass": "Inheritance3",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generics5Comparator",
+            "request": "launch",
+            "mainClass": "Generics5Comparator",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generics5Comparable",
+            "request": "launch",
+            "mainClass": "Generics5Comparable",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generics5CC",
+            "request": "launch",
+            "mainClass": "Generics5CC",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generics4Sort",
+            "request": "launch",
+            "mainClass": "Generics4Sort",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generics3",
+            "request": "launch",
+            "mainClass": "Generics3",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Generic1",
+            "request": "launch",
+            "mainClass": "Generic1",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading3",
+            "request": "launch",
+            "mainClass": "Multithreading3",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading8Syncro",
+            "request": "launch",
+            "mainClass": "Multithreading8Syncro",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading9deadlock",
+            "request": "launch",
+            "mainClass": "Multithreading9deadlock",
+            "projectName": "Core java codes_417d1df6"
+        },
+        {
+            "type": "java",
+            "name": "nyuhg",
+            "request": "launch",
+            "mainClass": "nyuhg",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection8legacy",
+            "request": "launch",
+            "mainClass": "Collection8legacy",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection8FailFast",
+            "request": "launch",
+            "mainClass": "Collection8FailFast",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection7Iterator",
+            "request": "launch",
+            "mainClass": "Collection7Iterator",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection6HashSet",
+            "request": "launch",
+            "mainClass": "Collection6HashSet",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection5TreeSet",
+            "request": "launch",
+            "mainClass": "Collection5TreeSet",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection4PriorityQueue",
+            "request": "launch",
+            "mainClass": "Collection4PriorityQueue",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection3ArrayDeque",
+            "request": "launch",
+            "mainClass": "Collection3ArrayDeque",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Array4",
+            "request": "launch",
+            "mainClass": "Array4",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection2LinkedList",
+            "request": "launch",
+            "mainClass": "Collection2LinkedList",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Collection1Arraylist",
+            "request": "launch",
+            "mainClass": "Collection1Arraylist",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading9deadlock",
+            "request": "launch",
+            "mainClass": "Multithreading9deadlock",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading5",
+            "request": "launch",
+            "mainClass": "Multithreading5",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading8Syncro",
+            "request": "launch",
+            "mainClass": "Multithreading8Syncro",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading7Interrupt",
+            "request": "launch",
+            "mainClass": "Multithreading7Interrupt",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingPC",
+            "request": "launch",
+            "mainClass": "MultithreadingPC",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading4Method2",
+            "request": "launch",
+            "mainClass": "Multithreading4Method2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading2",
+            "request": "launch",
+            "mainClass": "Multithreading2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingJoin",
+            "request": "launch",
+            "mainClass": "MultithreadingJoin",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading4",
+            "request": "launch",
+            "mainClass": "Multithreading4",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading3",
+            "request": "launch",
+            "mainClass": "Multithreading3",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "MultiThread2",
+            "request": "launch",
+            "mainClass": "MultiThread2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Multithreading1",
+            "request": "launch",
+            "mainClass": "Multithreading1",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "MultithreadingMethod2",
+            "request": "launch",
+            "mainClass": "MultithreadingMethod2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception6",
+            "request": "launch",
+            "mainClass": "Exception6",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception5",
+            "request": "launch",
+            "mainClass": "Exception5",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception4",
+            "request": "launch",
+            "mainClass": "Exception4",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionCustomised",
+            "request": "launch",
+            "mainClass": "ExceptionCustomised",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionDucking",
+            "request": "launch",
+            "mainClass": "ExceptionDucking",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionFinally1",
+            "request": "launch",
+            "mainClass": "ExceptionFinally1",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "dder43e",
+            "request": "launch",
+            "mainClass": "dder43e",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionFinally",
+            "request": "launch",
+            "mainClass": "ExceptionFinally",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionClose",
+            "request": "launch",
+            "mainClass": "ExceptionClose",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception3",
+            "request": "launch",
+            "mainClass": "Exception3",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionArrayoutOfBound",
+            "request": "launch",
+            "mainClass": "ExceptionArrayoutOfBound",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception2",
+            "request": "launch",
+            "mainClass": "Exception2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Exception1",
+            "request": "launch",
+            "mainClass": "Exception1",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "lambdaExpression02",
+            "request": "launch",
+            "mainClass": "lambdaExpression02",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExpression01",
+            "request": "launch",
+            "mainClass": "LambdaExpression01",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "LambdaExpression",
+            "request": "launch",
+            "mainClass": "LambdaExpression",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Interface02",
+            "request": "launch",
+            "mainClass": "Interface02",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceAnonymous",
+            "request": "launch",
+            "mainClass": "InterfaceAnonymous",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InnerclassStatic",
+            "request": "launch",
+            "mainClass": "InnerclassStatic",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InnerclassDefault",
+            "request": "launch",
+            "mainClass": "InnerclassDefault",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceFunc",
+            "request": "launch",
+            "mainClass": "InterfaceFunc",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceStatic",
+            "request": "launch",
+            "mainClass": "InterfaceStatic",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceDefault",
+            "request": "launch",
+            "mainClass": "InterfaceDefault",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Array6",
+            "request": "launch",
+            "mainClass": "Array6",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Interface03",
+            "request": "launch",
+            "mainClass": "Interface03",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceDemo",
+            "request": "launch",
+            "mainClass": "InterfaceDemo",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Interface01",
+            "request": "launch",
+            "mainClass": "Interface01",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Demo1",
+            "request": "launch",
+            "mainClass": "Demo1",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance2",
+            "request": "launch",
+            "mainClass": "Inheritance2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "inheritanceconstructor",
+            "request": "launch",
+            "mainClass": "inheritanceconstructor",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "StringmutableBuffer",
+            "request": "launch",
+            "mainClass": "StringmutableBuffer",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "abstract1",
+            "request": "launch",
+            "mainClass": "abstract1",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance5",
+            "request": "launch",
+            "mainClass": "Inheritance5",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Constructoroverloading",
+            "request": "launch",
+            "mainClass": "Constructoroverloading",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "constructoroverloading",
+            "request": "launch",
+            "mainClass": "constructoroverloading",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "statickeyword",
+            "request": "launch",
+            "mainClass": "statickeyword",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Static2",
+            "request": "launch",
+            "mainClass": "Static2",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "Farmersapp",
+            "request": "launch",
+            "mainClass": "Farmersapp",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "staticpractice",
+            "request": "launch",
+            "mainClass": "staticpractice",
+            "projectName": "java codes_fa6df63b"
+        },
+        {
+            "type": "java",
+            "name": "poly1",
+            "request": "launch",
+            "mainClass": "poly1",
+            "projectName": "java codes_fa6df63b"
+        }
+    ]
+}

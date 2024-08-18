@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+
+    ],
+    "java.debug.settings.onBuildFailureProceed": false,
+    "workbench.settings.useSplitJSON": true
+   
+}
